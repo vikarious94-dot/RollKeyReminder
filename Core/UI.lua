@@ -1,5 +1,7 @@
 local addonName, RollKeyReminder = ...
 
+print("UI.lua chargé")
+
 function RollKeyReminder:ShowReminder()
     local level = self.lastRunLevel or "?"
 
