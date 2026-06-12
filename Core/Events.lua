@@ -1,4 +1,4 @@
-local addonName, RollKeyReminder = ...
+local RollKeyReminder = _G.RollKeyReminder
 
 local frame = CreateFrame("Frame")
 local keyLevel = C_MythicPlus.GetOwnedKeystoneLevel()
