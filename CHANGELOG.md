@@ -1,4 +1,7 @@
 # Changelog
+## 1.0.7
+
+- Fix interface version
 
 ## 1.0.6
 
